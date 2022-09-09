@@ -1,5 +1,5 @@
 package src;
-//This ts
+//This ts;
 public class Second {
     @Override
     public boolean equals(Object obj) {
